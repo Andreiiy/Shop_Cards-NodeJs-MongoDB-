@@ -1,0 +1,2 @@
+C:\Users\tatar\OneDrive\Desktop\GitHubProjects\Shop_Cards-NodeJs-MongoDB-\ShopCards\obj\Debug\ShopCards.njsprojAssemblyReference.cache
+C:\Users\tatar\OneDrive\Desktop\GitHubProjects\Shop_Cards-NodeJs-MongoDB-\ShopCards\bin\Microsoft.NodejsTools.WebRole.dll
