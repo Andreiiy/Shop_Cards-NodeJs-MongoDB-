@@ -1,5 +1,5 @@
 body {
-    /*background-image: url("https://www.driving.co.uk/s3/st-driving-prod/uploads/2019/02/2019-Geneva-Motor-Show-Preview-01.jpg");*/
+    background-image: url("https://img.freepik.com/free-photo/metal-background-3d-rendering_118019-269.jpg?size=626&ext=jpg");
     background-color: #cccccc;
     padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
@@ -7,4 +7,12 @@ body {
 
 a {
     color: #00B7FF;
+}
+
+.row{
+    padding-top:20px;
+}
+
+.card img{
+    max-height:170px;
 }

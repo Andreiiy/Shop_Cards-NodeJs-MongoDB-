@@ -7,11 +7,14 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var expressHbs = require('express-handlebars');
+var mongoose = require('mongoose');
 
 //=============== route =====================//
 var routes = require('./routes/index');
 var users = require('./routes/users');
 //=============== route end=====================//
+
+mongoose.connect('mongodb://127.0.0.1:27017/shopping', { useNewUrlParser: true });
 
 var app = express();
 
