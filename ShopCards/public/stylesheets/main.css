@@ -3,6 +3,7 @@ body {
     background-color: #cccccc;
     padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    color:white;
 }
 
 a {
@@ -15,4 +16,8 @@ a {
 
 .card img{
     max-height:170px;
+}
+
+.signup {
+    color: white;
 }
